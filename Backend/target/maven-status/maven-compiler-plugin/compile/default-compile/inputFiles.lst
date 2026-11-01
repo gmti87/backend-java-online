@@ -1,0 +1,6 @@
+/home/gabriel-moreti-note/Área de Trabalho/Exemplo_Java/Back/src/main/java/br/techvagasapi/api/techvagasapi/TechvagasapiApplication.java
+/home/gabriel-moreti-note/Área de Trabalho/Exemplo_Java/Back/src/main/java/br/techvagasapi/api/techvagasapi/controller/HomeController.java
+/home/gabriel-moreti-note/Área de Trabalho/Exemplo_Java/Back/src/main/java/br/techvagasapi/api/techvagasapi/controller/UsuarioController.java
+/home/gabriel-moreti-note/Área de Trabalho/Exemplo_Java/Back/src/main/java/br/techvagasapi/api/techvagasapi/model/Usuario.java
+/home/gabriel-moreti-note/Área de Trabalho/Exemplo_Java/Back/src/main/java/br/techvagasapi/api/techvagasapi/repository/UsuarioRepository.java
+/home/gabriel-moreti-note/Área de Trabalho/Exemplo_Java/Back/src/main/java/br/techvagasapi/api/techvagasapi/service/UsuarioService.java

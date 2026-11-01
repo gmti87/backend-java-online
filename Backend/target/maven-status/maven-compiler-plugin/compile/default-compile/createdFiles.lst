@@ -1,0 +1,6 @@
+br/techvagasapi/api/techvagasapi/TechvagasapiApplication.class
+br/techvagasapi/api/techvagasapi/service/UsuarioService.class
+br/techvagasapi/api/techvagasapi/model/Usuario.class
+br/techvagasapi/api/techvagasapi/repository/UsuarioRepository.class
+br/techvagasapi/api/techvagasapi/controller/UsuarioController.class
+br/techvagasapi/api/techvagasapi/controller/HomeController.class
