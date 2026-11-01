@@ -1,7 +1,7 @@
-const API_URL = 'http://localhost:8080/usuarios';
+//const API_URL = 'http://localhost:8080/usuarios';
 
 // API_URL - WEB
-//const API_URL = '';
+const API_URL = 'https://backend-java-online.onrender.com/usuarios';
 
 const formulario = document.getElementById('formUsuario');
 const tabela = document.getElementById('tabelaUsuarios');
